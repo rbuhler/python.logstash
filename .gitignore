@@ -1,0 +1,6 @@
+/myvenv
+
+.idea/
+db.sqlite3
+
+*.iml
